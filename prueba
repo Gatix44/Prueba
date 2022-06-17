@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>#LANUCBANETTA</title>
+    <meta name="description" content="THIS IS THE WAY!" />
+  </head>
+
+  <body>
+    <header>
+      <h1>¡Bienvenida a NUCBA!</h1>
+    </header>
+
+    <main>
+      <div>
+        <h2>Preparate para patear el tablero</h2>
+        <img src="./nucba.png" alt="LOGO NUCBA" />
+      </div>
+
+      <div>
+        <h2>Nico Kenny, el mejor "mentor"</h2>
+        <button>Donar un cafecito</button>
+      </div>
+    </main>
+
+    <footer>
+      <p>hecho con mucho amor by NUCBA</p>
+    </footer>
+  </body>
+</html>
